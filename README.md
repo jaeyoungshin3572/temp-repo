@@ -1,5 +1,5 @@
-# My Project Plan (Level 1 Heading)'
-Note: This document is written
+# My Project Plan (Level 1 Heading)
+***Note:*** This document is written merely as an illustrative example, and does not provide any working guide to an actual project.
 
-temp-repo
-Hello, I'm Jaeyoung. Nice to meet you!
+### Proposal (Level 3 Heading)
+
